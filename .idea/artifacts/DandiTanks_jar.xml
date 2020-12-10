@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DandiTanks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DandiTanks_jar</output-path>
+    <root id="archive" name="DandiTanks.jar">
+      <element id="module-output" name="DandiTanks" />
+    </root>
+  </artifact>
+</component>
